@@ -8,10 +8,12 @@ Developed for the **Junior AI Research Associate Selection Round** at Rooman Tec
 
 ## Features
 
+- **Streamlit Web Application Dashboard**: A beautiful, interactive graphical user interface to drag-and-drop resumes, view live analysis, see candidate score breakdowns, inspect matched/missing skills with visual color badges, and review candidate rationales.
 - **Multi-Format Parsing**: Automatically parses plain text (`.txt`), Adobe PDF (`.pdf`), and Microsoft Word (`.docx`) files.
 - **Provider-Agnostic LLM Engine**: Native support for **Google Gemini (recommended)**, **OpenAI (GPT-4o)**, **Anthropic (Claude)**, and **Groq** APIs.
 - **Deep Semantic Matching**: Uses advanced prompt engineering to evaluate candidates on skills match (identifying matched/missing skills), relevant years of experience, highest education level, and rigorous relevance scoring (0-100).
 - **Structured Data Export**: Automatically saves ranked results in CSV and JSON formats, alongside a detailed formatted text report.
+- **Offline Mock Mode**: Runs the entire pipeline and UI instantly without requiring any API keys or network connection—perfect for reviewing and demonstrating capability out-of-the-box.
 - **Error Resilience**: Gracefully handles parsing failures and connection timeouts on individual resumes without failing the entire batch run.
 
 ---
@@ -21,9 +23,11 @@ Developed for the **Junior AI Research Associate Selection Round** at Rooman Tec
 ```text
 resume-screener/
 ├── app.py                  # CLI Driver & main entry point
+├── web_app.py              # Streamlit Web Dashboard App interface
 ├── screener.py             # Core LLM prompt and API orchestration
 ├── parser.py               # Text parsing logic (TXT, PDF, DOCX)
 ├── config.py               # API client loading and key validation
+├── push_to_github.py       # Helper script to automate GitHub OAuth/Device flow & push repo
 ├── requirements.txt        # Project dependencies
 ├── .env.example            # Template for environment variables
 ├── sample_data/            # Sample assets for out-of-the-box evaluation
@@ -48,12 +52,12 @@ Make sure you have Python 3.8+ installed. Run:
 pip install -r requirements.txt
 ```
 
-*Note: PDF parsing requires the `pypdf` library, and DOCX parsing requires `python-docx`. Both are included in the requirements.*
+*Note: PDF parsing requires `pypdf`, DOCX parsing requires `python-docx`, and the UI dashboard requires `streamlit` and `pandas`.*
 
 ### 3. Configure API Keys
 Create a `.env` file in the project root directory and add your API key:
 ```env
-# Set at least one API key
+# Set at least one API key (Optional if running in Mock Mode)
 GEMINI_API_KEY=your_gemini_api_key_here
 # OR
 OPENAI_API_KEY=your_openai_api_key_here
@@ -66,13 +70,24 @@ ANTHROPIC_API_KEY=your_anthropic_api_key_here
 
 ## Usage Guide
 
+### Option A: Run the Streamlit Web App Dashboard (Recommended)
+Launch the graphical dashboard:
+```bash
+streamlit run web_app.py
+```
+This opens a browser tab (typically at `http://localhost:8501`) where you can adjust the JD, upload custom resumes, select API providers, and view the visual analysis.
+
+### Option B: Run the Command-Line Interface (CLI)
 You can run the agent directly using the default sample dataset:
 ```bash
 python app.py
 ```
+To run in **Offline Mock Mode** (generating realistic candidate rankings without calling external APIs or charging keys):
+```bash
+python app.py --mock
+```
 
-### Advanced Usage (CLI Flags)
-You can customize the inputs and outputs using the following command-line flags:
+#### Advanced CLI Flags
 ```bash
 python app.py --jd path/to/job_description.txt --resumes path/to/resumes_folder --output path/to/save_results
 ```

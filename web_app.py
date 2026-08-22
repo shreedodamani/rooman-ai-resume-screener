@@ -5,7 +5,8 @@ import os
 import re
 from config import Config
 from parser import parse_resume
-from screener import screen_single_resume, get_mock_result
+from screener import screen_single_resume
+from app import get_mock_result
 
 # Setup page configuration
 st.set_page_config(

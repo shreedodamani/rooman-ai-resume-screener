@@ -1,0 +1,158 @@
+================================================================================
+                     RESUME SCREENER AGENT REPORT
+================================================================================
+
+Total Candidates Screened: 11
+
+RANKINGS SUMMARY:
+--------------------------------------------------------------------------------
+Rank Candidate Name                Score     Experience (Yrs)    Highest Education
+--------------------------------------------------------------------------------
+1    Aditya Sharma                 97        2.0                 B.Tech Computer
+2    Rohan Das                     95        1.0                 M.Sc. Data Scie
+3    Abhishek Gupta                91        1.2                 B.Tech Computer
+4    Sneha Patel                   85        1.4                 M.Sc. Data Scie
+5    Rahul Verma                   73        2.0                 B.E. Informatio
+6    Ananya Iyer                   72        0.0                 B.Tech CS (Cybe
+7    Priya Nair                    58        0.0                 B.Tech CS (Cybe
+8    Amit Kumar                    30        1.0                 B.Tech Mechanic
+9    Karan Malhotra                30        1.0                 MBA Human Resou
+10   Vikram Singh                  30        1.0                 B.Tech Mechanic
+11   Meera Krishnan                21        1.0                 B.Tech Mechanic
+--------------------------------------------------------------------------------
+
+CANDIDATE DETAIL ANALYSIS:
+================================================================================
+
+Rank 1: Aditya Sharma
+  Score            : 97/100
+  Email            : aditya.sharma@example.com
+  Phone            : +91-98765-43210
+  Experience       : 2.0 Years
+  Education        : B.Tech Computer Science
+  Skills Matched   : Python, Git, LLM APIs, LangChain, Prompt Engineering, Vector Databases
+  Skills Missing   : PyTorch/TensorFlow
+  Source File      : aditya_sharma_strong.txt
+  Screening Notes  : Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.
+--------------------------------------------------------------------------------
+
+Rank 2: Rohan Das
+  Score            : 95/100
+  Email            : rohan.das@example.com
+  Phone            : +91-95555-44444
+  Experience       : 1.0 Years
+  Education        : M.Sc. Data Science
+  Skills Matched   : Python, Git, LLM APIs, LangChain, Prompt Engineering, Vector Databases
+  Skills Missing   : PyTorch/TensorFlow
+  Source File      : rohan_das_strong.txt
+  Screening Notes  : Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.
+--------------------------------------------------------------------------------
+
+Rank 3: Abhishek Gupta
+  Score            : 91/100
+  Email            : abhishek.gupta@example.com
+  Phone            : +91-91111-00000
+  Experience       : 1.2 Years
+  Education        : B.Tech Computer Science
+  Skills Matched   : Python, Git, LLM APIs, LangChain, Prompt Engineering, Vector Databases
+  Skills Missing   : PyTorch/TensorFlow
+  Source File      : abhishek_gupta_strong.txt
+  Screening Notes  : Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.
+--------------------------------------------------------------------------------
+
+Rank 4: Sneha Patel
+  Score            : 85/100
+  Email            : sneha.patel@example.com
+  Phone            : +91-99988-77766
+  Experience       : 1.4 Years
+  Education        : M.Sc. Data Science
+  Skills Matched   : Python, Git, LLM APIs, LangChain, Prompt Engineering, Vector Databases
+  Skills Missing   : PyTorch/TensorFlow
+  Source File      : sneha_patel_strong.txt
+  Screening Notes  : Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.
+--------------------------------------------------------------------------------
+
+Rank 5: Rahul Verma
+  Score            : 73/100
+  Email            : rahul.verma@example.com
+  Phone            : +91-91234-56789
+  Experience       : 2.0 Years
+  Education        : B.E. Information Technology
+  Skills Matched   : Python, Git, SQL
+  Skills Missing   : LangChain, Hugging Face, LLM APIs, Vector Databases
+  Source File      : rahul_verma_medium.txt
+  Screening Notes  : Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.
+--------------------------------------------------------------------------------
+
+Rank 6: Ananya Iyer
+  Score            : 72/100
+  Email            : ananya.iyer@example.com
+  Phone            : +91-94444-33333
+  Experience       : 0.0 Years
+  Education        : B.Tech CS (Cyber Security)
+  Skills Matched   : Python, Git, SQL
+  Skills Missing   : LangChain, Hugging Face, LLM APIs, Vector Databases
+  Source File      : ananya_iyer_medium.txt
+  Screening Notes  : Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.
+--------------------------------------------------------------------------------
+
+Rank 7: Priya Nair
+  Score            : 58/100
+  Email            : priya.nair@example.com
+  Phone            : +91-88877-66655
+  Experience       : 0.0 Years
+  Education        : B.Tech CS (Cyber Security)
+  Skills Matched   : Python, Git, SQL
+  Skills Missing   : LangChain, Hugging Face, LLM APIs, Vector Databases
+  Source File      : priya_nair_medium.txt
+  Screening Notes  : Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.
+--------------------------------------------------------------------------------
+
+Rank 8: Amit Kumar
+  Score            : 30/100
+  Email            : amit.kumar@example.com
+  Phone            : +91-77766-55544
+  Experience       : 1.0 Years
+  Education        : B.Tech Mechanical Engineering
+  Skills Matched   : None
+  Skills Missing   : Python, Git, LLM APIs, LangChain, Hugging Face, Vector Databases
+  Source File      : amit_kumar_weak.txt
+  Screening Notes  : Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.
+--------------------------------------------------------------------------------
+
+Rank 9: Karan Malhotra
+  Score            : 30/100
+  Email            : karan.malhotra@example.com
+  Phone            : +91-93333-22222
+  Experience       : 1.0 Years
+  Education        : MBA Human Resources
+  Skills Matched   : None
+  Skills Missing   : Python, Git, LLM APIs, LangChain, Hugging Face, Vector Databases
+  Source File      : karan_malhotra_unrelated.txt
+  Screening Notes  : Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.
+--------------------------------------------------------------------------------
+
+Rank 10: Vikram Singh
+  Score            : 30/100
+  Email            : vikram.singh@example.com
+  Phone            : +91-66655-44433
+  Experience       : 1.0 Years
+  Education        : B.Tech Mechanical Engineering
+  Skills Matched   : None
+  Skills Missing   : Python, Git, LLM APIs, LangChain, Hugging Face, Vector Databases
+  Source File      : vikram_singh_weak.txt
+  Screening Notes  : Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.
+--------------------------------------------------------------------------------
+
+Rank 11: Meera Krishnan
+  Score            : 21/100
+  Email            : meera.krishnan@example.com
+  Phone            : +91-92222-11111
+  Experience       : 1.0 Years
+  Education        : B.Tech Mechanical Engineering
+  Skills Matched   : None
+  Skills Missing   : Python, Git, LLM APIs, LangChain, Hugging Face, Vector Databases
+  Source File      : meera_krishnan_unrelated.txt
+  Screening Notes  : Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.
+--------------------------------------------------------------------------------
+

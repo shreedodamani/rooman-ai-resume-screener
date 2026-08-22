@@ -1,0 +1,22 @@
+Sneha Patel
+Email: sneha.patel@example.com
+Phone: +91-99988-77766
+
+SUMMARY
+Data Science graduate with strong hands-on experience in NLP, Hugging Face Transformers, and LLM APIs. Built multiple semantic search projects and conversational AI agents.
+
+SKILLS
+- AI: GPT-4, Gemini, Hugging Face, LangChain, PyTorch, Vector Search
+- Programming: Python, R, SQL, Bash
+- Version Control: Git / GitHub
+
+PROJECTS
+Semantic Document Search Engine
+- Built an end-to-end document search engine using Hugging Face embeddings and Qdrant vector database.
+- Used Python to preprocess PDF and Word documents and extract structured text.
+
+AI Meeting Summary Agent
+- Developed an agent that takes meeting transcripts, structures decisions, and routes them via APIs.
+
+EDUCATION
+M.Sc. in Data Science | Indian Institute of Technology (IIT), Madras, 2025

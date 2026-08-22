@@ -1,0 +1,19 @@
+Ananya Iyer
+Email: ananya.iyer@example.com
+Phone: +91-94444-33333
+
+SUMMARY
+Information Security Analyst with a foundation in cyber security and basic Python scripting. Seeking to leverage coding skills in security automation and AI research.
+
+SKILLS
+- Security: Network Security, Vulnerability Assessment, Wireshark
+- Programming: Python (Scripting), Bash, SQL
+- Tools: Git, Linux systems
+
+EXPERIENCE
+Cyber Security Intern | SecureNet (2025 - 2026)
+- Wrote basic automation scripts in Python to analyze network log files.
+- Performed weekly vulnerability scans.
+
+EDUCATION
+B.Tech in Computer Science (Cyber Security) | Amrita Vishwa Vidyapeetham, 2025

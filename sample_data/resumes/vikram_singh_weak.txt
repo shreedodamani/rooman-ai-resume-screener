@@ -1,0 +1,18 @@
+Vikram Singh
+Email: vikram.singh@example.com
+Phone: +91-66655-44433
+
+SUMMARY
+Frontend Developer with 1.5 years of experience building modern web applications. Skilled in HTML, CSS, JavaScript, and React.js.
+
+SKILLS
+- Frontend: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- Tooling: Git, Webpack, npm
+
+EXPERIENCE
+Frontend Developer | WebCraft (2025 - Present)
+- Created responsive user interfaces for e-commerce platforms using React.js.
+- Collaborated with UI/UX designers to translate Figma designs into pixel-perfect code.
+
+EDUCATION
+B.Sc. in Computer Science | St. Xavier's College, Kolkata, 2025

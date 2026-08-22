@@ -1,0 +1,21 @@
+Aditya Sharma
+Email: aditya.sharma@example.com
+Phone: +91-98765-43210
+GitHub: github.com/adityasharma
+
+PROFESSIONAL SUMMARY
+Highly motivated Python developer with 1.5 years of experience building applications using LLMs and Generative AI. Proven experience designing AI agents, working with LangChain, and integrating vector databases (Pinecone, ChromaDB).
+
+TECHNICAL SKILLS
+- Languages: Python, SQL, JavaScript
+- AI/ML Frameworks: LangChain, LlamaIndex, Hugging Face, OpenAI API
+- Databases & Tools: SQLite, PostgreSQL, Git, Docker, Pinecone
+
+WORK EXPERIENCE
+Junior AI Engineer | TechSolutions Pvt. Ltd. (June 2025 - Present)
+- Designed and built a Retrieval-Augmented Generation (RAG) chatbot for internal customer support using LangChain and OpenAI, reducing response times by 40%.
+- Implemented automated AI agents for web scraping and data extraction.
+- Version-controlled all codebases using Git and collaborated in an agile team.
+
+EDUCATION
+B.Tech in Computer Science | Delhi Technological University (DTU), 2025

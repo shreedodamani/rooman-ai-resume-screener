@@ -1,0 +1,19 @@
+Abhishek Gupta
+Email: abhishek.gupta@example.com
+Phone: +91-91111-00000
+
+SUMMARY
+Recent computer science graduate with strong software engineering fundamentals and a portfolio of AI agent and vector database projects.
+
+SKILLS
+- Python, C, Git, SQLite
+- LangChain, LlamaIndex, OpenAI, Prompt Engineering
+
+PROJECTS
+OpenAI Document Question-Answering
+- Created a CLI tool that parses TXT files and answers questions using OpenAI embeddings.
+AI Agent Planner
+- Developed a prototype agent using LangChain that executes local shell commands based on user requests.
+
+EDUCATION
+B.Tech in Computer Science | BITS Pilani, 2026

@@ -1,0 +1,20 @@
+Rahul Verma
+Email: rahul.verma@example.com
+Phone: +91-91234-56789
+
+SUMMARY
+Software Engineer with 2 years of experience specializing in Python backend development. Proficient in Django, Flask, and SQL databases. Looking to transition into AI research and development.
+
+SKILLS
+- Backend: Python, Django, Flask, FastAPI
+- Databases: PostgreSQL, MySQL, Redis
+- Tools: Git, AWS (S3, EC2), Docker
+
+EXPERIENCE
+Software Engineer | AppDyno (2024 - Present)
+- Developed robust API endpoints using FastAPI and integrated third-party payment gateways.
+- Maintained code repositories in GitHub and managed deployments using Docker.
+- Note: Eager to apply software engineering skills to AI agent development.
+
+EDUCATION
+B.E. in Information Technology | PES University, 2024

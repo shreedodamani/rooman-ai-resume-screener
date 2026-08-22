@@ -1,0 +1,21 @@
+Job Title: Junior AI Research Associate
+Company: Rooman Technologies
+Location: Bengaluru, India / Remote Friendly
+Role Type: Full-time
+
+About the Role:
+We are looking for graduates with strong curiosity and hands-on exposure to AI tools and technologies to join us as Junior AI Research Associates. You'll work across exploring emerging AI tools and frameworks, building real AI projects and products, and mentoring the people we equip with AI skills.
+
+Key Responsibilities:
+- Design, build, and deploy working AI agents and LLM-powered applications.
+- Investigate and research cutting-edge AI frameworks (LangChain, LlamaIndex, Hugging Face).
+- Write clean, maintainable Python code and integrate third-party APIs (OpenAI, Anthropic, Gemini, Twilio, etc.).
+- Maintain robust project documentation, including detailed setup instructions and READMEs.
+- Assist in candidate assessments and mentor interns in software engineering and AI best practices.
+
+Requirements:
+- Strong proficiency in Python development and software engineering fundamentals.
+- Hands-on experience with LLM APIs, prompt engineering, and semantic search (Vector Databases).
+- Exposure to generative AI frameworks like LangChain, Hugging Face, or TensorFlow/PyTorch.
+- Familiarity with version control (Git) and basic database systems (SQLite, PostgreSQL).
+- Excellent communication skills, critical thinking, and a passion for research.

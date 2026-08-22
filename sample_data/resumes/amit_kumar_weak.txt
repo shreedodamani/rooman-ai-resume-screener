@@ -1,0 +1,20 @@
+Amit Kumar
+Email: amit.kumar@example.com
+Phone: +91-77766-55544
+
+SUMMARY
+Java Developer with 3 years of experience in enterprise application development. Specialized in Spring Boot, microservices architecture, and SQL database design.
+
+SKILLS
+- Languages: Java, SQL, HTML/CSS
+- Frameworks: Spring Boot, Hibernate, JUnit
+- Databases: Oracle, PostgreSQL, MySQL
+- Version Control: Git
+
+EXPERIENCE
+Associate Software Engineer | EnterpriseCorp (2023 - Present)
+- Developed scalable backend services using Spring Boot and Java 17.
+- Optimized Oracle database queries, improving system throughput by 15%.
+
+EDUCATION
+B.Tech in Information Technology | VIT Vellore, 2023

@@ -1,0 +1,20 @@
+Priya Nair
+Email: priya.nair@example.com
+Phone: +91-88877-66655
+
+SUMMARY
+Fresh engineering graduate with deep academic interest in Machine Learning. Hands-on projects using PyTorch, TensorFlow, and basic prompt engineering with OpenAI.
+
+SKILLS
+- Frameworks: PyTorch, TensorFlow, Scikit-learn
+- Languages: Python, C++, MATLAB
+- Concepts: Deep Learning, CNNs, Prompt Engineering
+
+PROJECTS
+Image Classification with PyTorch
+- Developed a convolutional neural network model using PyTorch to classify objects with 92% validation accuracy.
+AI Prompt Builder
+- Created a simple Python utility to optimize prompts for text generation using OpenAI's API.
+
+EDUCATION
+B.Tech in Computer Science | College of Engineering Trivandrum, 2026

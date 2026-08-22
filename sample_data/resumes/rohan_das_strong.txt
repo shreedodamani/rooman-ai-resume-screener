@@ -1,0 +1,20 @@
+Rohan Das
+Email: rohan.das@example.com
+Phone: +91-95555-44444
+
+SUMMARY
+Passionate Python developer focused on LLM integration, agentic workflows, and semantic search. Developed multiple personal AI products.
+
+SKILLS
+- Languages: Python, Bash, SQL
+- AI: OpenAI API, Gemini API, SQLite, Chromadb, LangChain
+- Workflow: Git, GitHub Actions
+
+PROJECTS
+Personal Assistant Agent
+- Developed an agent that reads daily schedules from SQLite, checks emails, and summarizes priorities using the Gemini API.
+Git Tracker Agent
+- Built a command-line script to automatically analyze Git commit logs and generate release notes.
+
+EDUCATION
+B.Tech in Computer Science | Jadavpur University, 2026

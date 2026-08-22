@@ -1,0 +1,18 @@
+Meera Krishnan
+Email: meera.krishnan@example.com
+Phone: +91-92222-11111
+
+SUMMARY
+Mechanical Design Engineer with exposure to CAD, simulation, and analysis software. Familiar with MATLAB for numerical computing.
+
+SKILLS
+- CAD/CAM: SolidWorks, AutoCAD, ANSYS
+- Programming: MATLAB, basic C
+- Testing: Mechanical stress testing
+
+EXPERIENCE
+Design Engineer | AutoParts Ltd. (2025 - Present)
+- Created 3D models and engineering drawings for automotive components.
+
+EDUCATION
+B.Tech in Mechanical Engineering | NIT Trichy, 2025

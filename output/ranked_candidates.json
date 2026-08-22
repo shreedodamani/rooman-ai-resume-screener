@@ -1,0 +1,225 @@
+[
+  {
+    "candidate_name": "Aditya Sharma",
+    "email": "aditya.sharma@example.com",
+    "phone": "+91-98765-43210",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Prompt Engineering",
+      "Vector Databases"
+    ],
+    "skills_missing": [
+      "PyTorch/TensorFlow"
+    ],
+    "experience_years": 2.0,
+    "education_level": "B.Tech Computer Science",
+    "relevance_score": 97,
+    "reasoning": "Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.",
+    "file_name": "aditya_sharma_strong.txt"
+  },
+  {
+    "candidate_name": "Rohan Das",
+    "email": "rohan.das@example.com",
+    "phone": "+91-95555-44444",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Prompt Engineering",
+      "Vector Databases"
+    ],
+    "skills_missing": [
+      "PyTorch/TensorFlow"
+    ],
+    "experience_years": 1.0,
+    "education_level": "M.Sc. Data Science",
+    "relevance_score": 95,
+    "reasoning": "Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.",
+    "file_name": "rohan_das_strong.txt"
+  },
+  {
+    "candidate_name": "Abhishek Gupta",
+    "email": "abhishek.gupta@example.com",
+    "phone": "+91-91111-00000",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Prompt Engineering",
+      "Vector Databases"
+    ],
+    "skills_missing": [
+      "PyTorch/TensorFlow"
+    ],
+    "experience_years": 1.2,
+    "education_level": "B.Tech Computer Science",
+    "relevance_score": 91,
+    "reasoning": "Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.",
+    "file_name": "abhishek_gupta_strong.txt"
+  },
+  {
+    "candidate_name": "Sneha Patel",
+    "email": "sneha.patel@example.com",
+    "phone": "+91-99988-77766",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Prompt Engineering",
+      "Vector Databases"
+    ],
+    "skills_missing": [
+      "PyTorch/TensorFlow"
+    ],
+    "experience_years": 1.4,
+    "education_level": "M.Sc. Data Science",
+    "relevance_score": 85,
+    "reasoning": "Excellent candidate with clear hands-on experience building LLM-powered applications and vector search indexers. Strong programming and version control practices.",
+    "file_name": "sneha_patel_strong.txt"
+  },
+  {
+    "candidate_name": "Rahul Verma",
+    "email": "rahul.verma@example.com",
+    "phone": "+91-91234-56789",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "SQL"
+    ],
+    "skills_missing": [
+      "LangChain",
+      "Hugging Face",
+      "LLM APIs",
+      "Vector Databases"
+    ],
+    "experience_years": 2.0,
+    "education_level": "B.E. Information Technology",
+    "relevance_score": 73,
+    "reasoning": "Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.",
+    "file_name": "rahul_verma_medium.txt"
+  },
+  {
+    "candidate_name": "Ananya Iyer",
+    "email": "ananya.iyer@example.com",
+    "phone": "+91-94444-33333",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "SQL"
+    ],
+    "skills_missing": [
+      "LangChain",
+      "Hugging Face",
+      "LLM APIs",
+      "Vector Databases"
+    ],
+    "experience_years": 0.0,
+    "education_level": "B.Tech CS (Cyber Security)",
+    "relevance_score": 72,
+    "reasoning": "Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.",
+    "file_name": "ananya_iyer_medium.txt"
+  },
+  {
+    "candidate_name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+91-88877-66655",
+    "skills_matched": [
+      "Python",
+      "Git",
+      "SQL"
+    ],
+    "skills_missing": [
+      "LangChain",
+      "Hugging Face",
+      "LLM APIs",
+      "Vector Databases"
+    ],
+    "experience_years": 0.0,
+    "education_level": "B.Tech CS (Cyber Security)",
+    "relevance_score": 58,
+    "reasoning": "Good software development foundations and Python knowledge, but lacks hands-on experience with LLM orchestration frameworks, vector databases, and prompt engineering.",
+    "file_name": "priya_nair_medium.txt"
+  },
+  {
+    "candidate_name": "Amit Kumar",
+    "email": "amit.kumar@example.com",
+    "phone": "+91-77766-55544",
+    "skills_matched": [],
+    "skills_missing": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Hugging Face",
+      "Vector Databases"
+    ],
+    "experience_years": 1.0,
+    "education_level": "B.Tech Mechanical Engineering",
+    "relevance_score": 30,
+    "reasoning": "Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.",
+    "file_name": "amit_kumar_weak.txt"
+  },
+  {
+    "candidate_name": "Karan Malhotra",
+    "email": "karan.malhotra@example.com",
+    "phone": "+91-93333-22222",
+    "skills_matched": [],
+    "skills_missing": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Hugging Face",
+      "Vector Databases"
+    ],
+    "experience_years": 1.0,
+    "education_level": "MBA Human Resources",
+    "relevance_score": 30,
+    "reasoning": "Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.",
+    "file_name": "karan_malhotra_unrelated.txt"
+  },
+  {
+    "candidate_name": "Vikram Singh",
+    "email": "vikram.singh@example.com",
+    "phone": "+91-66655-44433",
+    "skills_matched": [],
+    "skills_missing": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Hugging Face",
+      "Vector Databases"
+    ],
+    "experience_years": 1.0,
+    "education_level": "B.Tech Mechanical Engineering",
+    "relevance_score": 30,
+    "reasoning": "Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.",
+    "file_name": "vikram_singh_weak.txt"
+  },
+  {
+    "candidate_name": "Meera Krishnan",
+    "email": "meera.krishnan@example.com",
+    "phone": "+91-92222-11111",
+    "skills_matched": [],
+    "skills_missing": [
+      "Python",
+      "Git",
+      "LLM APIs",
+      "LangChain",
+      "Hugging Face",
+      "Vector Databases"
+    ],
+    "experience_years": 1.0,
+    "education_level": "B.Tech Mechanical Engineering",
+    "relevance_score": 21,
+    "reasoning": "Unrelated candidate background. Profile shows no experience with software engineering, Python, Git, or AI/ML technologies.",
+    "file_name": "meera_krishnan_unrelated.txt"
+  }
+]
